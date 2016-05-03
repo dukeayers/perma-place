@@ -33,3 +33,4 @@ Vertically aligns the permanent placeholder but still allows the user to control
 
 ### Example
 
+![alt-text](https://github.com/dukeayers/perma-place/blob/master/image.png)
