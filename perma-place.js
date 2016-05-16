@@ -7,7 +7,7 @@
       } else {
         var initPlaceholder = this.createCSS(item); // Create the placeholder and return it.
         if (item.nodeName == "INPUT") {
-          this.createJs(item, initPlaceholder, "onkeyup");
+          this.createJs(item, initPlaceholder, "oninput");
         } else {
           this.createJs(item, initPlaceholder, "onchange");
         }
