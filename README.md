@@ -28,7 +28,7 @@ Sets the bottom pixel value of the permanent placeholder. Expects a numeric valu
 
 ### data-permanent-pos-v
 
-Vertically aligns the permanent placeholder but still allows the user to control the left/right position. Expects any value.
+Vertically aligns the permanent placeholder but still allows the user to control the left/right position. Expects any true value.
 
 
 ### Example
