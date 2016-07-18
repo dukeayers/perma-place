@@ -52,7 +52,7 @@
       var posL = item.dataset.permanentPosL;
       var posT = item.dataset.permanentPosT;
       var posB = item.dataset.permanentPosB;
-      var posV = item.dataset.permanentPosVertical
+      var posV = item.dataset.permanentPosV;
 
       if (posV) {
         this.positionVCenter(placeholder);
